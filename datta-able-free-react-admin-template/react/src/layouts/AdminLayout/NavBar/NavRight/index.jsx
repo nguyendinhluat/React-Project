@@ -34,7 +34,7 @@ export default function NavRight() {
           <Dropdown.Toggle as="a" variant="link" className="pc-head-link arrow-none me-0 user-name">
             <img src={avatar2} alt="userimage" className="user-avatar" />
             <span>
-              <span className="user-name">Joseph William</span>
+              <span className="user-name">Luat Nguyen</span>
               <span className="user-desc">Administrator</span>
             </span>
           </Dropdown.Toggle>
